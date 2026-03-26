@@ -1,8 +1,8 @@
-#### Jetpack version
+#### DriveOS version
 
-* Drive OS: 7.0.3.0
+* DriveOS: 7.0.3.0
 
-#### Support camera list
+#### Supported camera list
 * SG2-AR0233C-5200-G2A-HXXX
 * SG2-IMX390C-5300-GMSL2-HXXX
 * SG5-IMX490C-5300-GMSL2-HXXX

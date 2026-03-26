@@ -1,9 +1,9 @@
 
-#### Jetpack version
+#### DriveOS version
 
-* Drive OS: 7.0.3.0
+* DriveOS: 7.0.3.0
 
-#### Support camera list
+#### Supported camera list
 * SG8-IMX728C-G2G-HXXX
 
 #### Quick Start
