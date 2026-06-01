@@ -48,3 +48,8 @@ $ ./nvsipl_camera -c SG8_OX08DC_G2G_96724_CPHY_x4 -m '0x0001 0x0000 0x0000 0x000
 $ ./nvsipl_camera -c SG8_OX08DC_G2G_96724_CPHY_x4 -m '0x0001 0x0000 0x0000 0x0000' -1 -2 -s
 ```
 
+4.Show EEPROM data (Internal parameters)
+```
+./nvsipl_camera -c SG8_OX08DC_G2G_96724_CPHY_x4 -m '0x0000 0x0000 0x0000 0x0001' -R -0 -1 -2 -s -e
+```
+
